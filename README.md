@@ -1,7 +1,14 @@
 <h1 align="center">Hi 👋, I'm Jesús</h1>
-<h3 align="center">A passionate developer from Spain, currently in Brussels, Belgium.</h3>
+<h3 align="center">A passionate developer from Spain, currently in Málaga, Spain.</h3>
 
-- 🌱 I’m currently learning **React, Spring Boot and AWS**
+- 🌱 I’m currently learning **technologies for AI and Big Data**, including:
+  - **Python**
+  - **AWS**
+  - **Pandas**
+  - **Scikit-learn**
+  - **PyTorch**
+  - 
+- 🎓 Pursuing a **Master's in AI and Big Data** in collaboration with **Accenture**.
 
 - 📫 How to reach me **jesusaceituno03@gmail.com**
 
