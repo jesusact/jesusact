@@ -7,7 +7,7 @@
   - **Pandas**
   - **Scikit-learn**
   - **PyTorch**
-  - 
+    
 - 🎓 Pursuing a **Master's in AI and Big Data** in collaboration with **Accenture**.
 
 - 📫 How to reach me **jesusaceituno03@gmail.com**
